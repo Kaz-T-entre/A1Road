@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="Page-1" id="2O6jsqNbBZic9I3Afdn2">
-    <mxGraphModel dx="2138" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2202" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,10 +47,13 @@
           <mxGeometry x="690" y="353.75" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Wm0wxmgE54PNJz_v4CA-18" value="一般大衆" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="385" width="30" height="60" as="geometry" />
+          <mxGeometry x="-170" y="382.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Wm0wxmgE54PNJz_v4CA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Wm0wxmgE54PNJz_v4CA-18" target="5Wm0wxmgE54PNJz_v4CA-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Wm0wxmgE54PNJz_v4CA-22" value="一般大衆" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="382.5" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
